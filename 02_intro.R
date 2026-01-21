@@ -79,7 +79,7 @@ class(tricky)
 
 wall_type
 wall_type[3]
-wall_type[c(2,2,1,3,4,,4,2,1,3)]
+wall_type[c(2,2,1,3,4,4,2,1,3)]
 
 hh_members
 a <- hh_members[-c(1,3)]
